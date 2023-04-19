@@ -1,6 +1,0 @@
-C:\Users\oesperan\source\repos\CollectionsTest\LinkedListNodeTest\bin\Debug\LinkedListNodeTest.exe.config
-C:\Users\oesperan\source\repos\CollectionsTest\LinkedListNodeTest\bin\Debug\LinkedListNodeTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\LinkedListNodeTest\bin\Debug\LinkedListNodeTest.pdb
-C:\Users\oesperan\source\repos\CollectionsTest\LinkedListNodeTest\obj\Debug\LinkedListNodeTest.csproj.CoreCompileInputs.cache
-C:\Users\oesperan\source\repos\CollectionsTest\LinkedListNodeTest\obj\Debug\LinkedListNodeTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\LinkedListNodeTest\obj\Debug\LinkedListNodeTest.pdb

@@ -1,6 +1,0 @@
-C:\Users\oesperan\source\repos\CollectionsTest\SortedSet\bin\Debug\SortedSet.exe.config
-C:\Users\oesperan\source\repos\CollectionsTest\SortedSet\bin\Debug\SortedSet.exe
-C:\Users\oesperan\source\repos\CollectionsTest\SortedSet\bin\Debug\SortedSet.pdb
-C:\Users\oesperan\source\repos\CollectionsTest\SortedSet\obj\Debug\SortedSetTest.csproj.CoreCompileInputs.cache
-C:\Users\oesperan\source\repos\CollectionsTest\SortedSet\obj\Debug\SortedSet.exe
-C:\Users\oesperan\source\repos\CollectionsTest\SortedSet\obj\Debug\SortedSet.pdb

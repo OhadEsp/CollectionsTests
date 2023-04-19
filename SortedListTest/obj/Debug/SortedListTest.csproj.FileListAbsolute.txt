@@ -1,7 +1,0 @@
-C:\Users\oesperan\source\repos\CollectionsTest\SortedListTest\bin\Debug\SortedListTest.exe.config
-C:\Users\oesperan\source\repos\CollectionsTest\SortedListTest\bin\Debug\SortedListTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\SortedListTest\bin\Debug\SortedListTest.pdb
-C:\Users\oesperan\source\repos\CollectionsTest\SortedListTest\obj\Debug\SortedListTest.csproj.CoreCompileInputs.cache
-C:\Users\oesperan\source\repos\CollectionsTest\SortedListTest\obj\Debug\SortedListTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\SortedListTest\obj\Debug\SortedListTest.pdb
-C:\Users\oesperan\source\repos\CollectionsTest\SortedListTest\obj\Debug\SortedListTest.csprojAssemblyReference.cache

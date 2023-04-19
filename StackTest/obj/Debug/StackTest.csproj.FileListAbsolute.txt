@@ -1,6 +1,0 @@
-C:\Users\oesperan\source\repos\CollectionsTest\StackTest\bin\Debug\StackTest.exe.config
-C:\Users\oesperan\source\repos\CollectionsTest\StackTest\bin\Debug\StackTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\StackTest\bin\Debug\StackTest.pdb
-C:\Users\oesperan\source\repos\CollectionsTest\StackTest\obj\Debug\StackTest.csproj.CoreCompileInputs.cache
-C:\Users\oesperan\source\repos\CollectionsTest\StackTest\obj\Debug\StackTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\StackTest\obj\Debug\StackTest.pdb

@@ -1,6 +1,0 @@
-C:\Users\oesperan\source\repos\CollectionsTest\ListProject\bin\Debug\ListProject.exe.config
-C:\Users\oesperan\source\repos\CollectionsTest\ListProject\bin\Debug\ListProject.exe
-C:\Users\oesperan\source\repos\CollectionsTest\ListProject\bin\Debug\ListProject.pdb
-C:\Users\oesperan\source\repos\CollectionsTest\ListProject\obj\Debug\ListProject.csproj.CoreCompileInputs.cache
-C:\Users\oesperan\source\repos\CollectionsTest\ListProject\obj\Debug\ListProject.exe
-C:\Users\oesperan\source\repos\CollectionsTest\ListProject\obj\Debug\ListProject.pdb

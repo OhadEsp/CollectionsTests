@@ -1,7 +1,0 @@
-C:\Users\oesperan\source\repos\CollectionsTest\SortedDictionaryTest\bin\Debug\SortedDictionaryTest.exe.config
-C:\Users\oesperan\source\repos\CollectionsTest\SortedDictionaryTest\bin\Debug\SortedDictionaryTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\SortedDictionaryTest\bin\Debug\SortedDictionaryTest.pdb
-C:\Users\oesperan\source\repos\CollectionsTest\SortedDictionaryTest\obj\Debug\SortedDictionaryTest.csprojAssemblyReference.cache
-C:\Users\oesperan\source\repos\CollectionsTest\SortedDictionaryTest\obj\Debug\SortedDictionaryTest.csproj.CoreCompileInputs.cache
-C:\Users\oesperan\source\repos\CollectionsTest\SortedDictionaryTest\obj\Debug\SortedDictionaryTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\SortedDictionaryTest\obj\Debug\SortedDictionaryTest.pdb

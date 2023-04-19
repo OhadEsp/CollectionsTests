@@ -1,6 +1,0 @@
-C:\Users\oesperan\source\repos\CollectionsTest\QueueTest\bin\Debug\QueueTest.exe.config
-C:\Users\oesperan\source\repos\CollectionsTest\QueueTest\bin\Debug\QueueTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\QueueTest\bin\Debug\QueueTest.pdb
-C:\Users\oesperan\source\repos\CollectionsTest\QueueTest\obj\Debug\QueueTest.csproj.CoreCompileInputs.cache
-C:\Users\oesperan\source\repos\CollectionsTest\QueueTest\obj\Debug\QueueTest.exe
-C:\Users\oesperan\source\repos\CollectionsTest\QueueTest\obj\Debug\QueueTest.pdb
